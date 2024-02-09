@@ -47,6 +47,12 @@
             <version>8.0.28</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.yamcs</groupId>
+            <artifactId>yamcs</artifactId>
+            <version>5.8.6</version>
+        </dependency>
+
     </dependencies>
 
     <!-- oh -->
